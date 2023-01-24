@@ -1,0 +1,131 @@
+name,type,label,cog,schoold,fips,region,municode
+CHESWICK,BOROUGH,Cheswick Borough,Allegheny Valley North,Allegheny Valley,13392,NH,815
+EDGEWORTH,BOROUGH,Edgeworth Borough,Quaker Valley,Quaker Valley,22576,AA,824
+SEWICKLEY,BOROUGH,Sewickley Borough,Quaker Valley,Quaker Valley,69376,AA,851
+SEWICKLEY HEIGHTS,BOROUGH,Sewickley Heights Borough, ,Quaker Valley,69400,AA,869
+HARMAR,TOWNSHIP,Harmar Township,Allegheny Valley North,Allegheny Valley,32624,NH,915
+FOX CHAPEL,BOROUGH,Fox Chapel Borough,North Hills,Fox Chapel Area,27120,NH,868
+FRANKLIN PARK,BOROUGH,Franklin Park Borough,North Hills,North Allegheny,27552,NH,884
+BELL ACRES,BOROUGH,Bell Acres Borough,Quaker Valley,Quaker Valley,5216,AA,883
+LEET,TOWNSHIP,Leet Township,Quaker Valley,Quaker Valley,42368,AA,921
+LEETSDALE,BOROUGH,Leetsdale Borough,Quaker Valley,Quaker Valley,42392,AA,836
+SEWICKLEY HILLS,BOROUGH,Sewickley Hills Borough, ,Quaker Valley,69416,AA,882
+OHIO,TOWNSHIP,Ohio Township,North Hills,Avonworth,56392,NH,932
+RICHLAND,TOWNSHIP,Richland Township,North Hills,Pine-Richland,64528,NH,938
+MCCANDLESS,TOWNSHIP,McCandless Township,North Hills,North Allegheny,45900,NH,927
+HAYSVILLE,BOROUGH,Haysville Borough,Quaker Valley,Quaker Valley,33312,AA,832
+FRAZER,TOWNSHIP,Frazer Township,Allegheny Valley North,Deer Lakes,27608,NH,913
+FAWN,TOWNSHIP,Fawn Township,Allegheny Valley North,Highlands,25400,NH,909
+HARRISON,TOWNSHIP,Harrison Township,Allegheny Valley North,Highlands,32832,NH,916
+TARENTUM,BOROUGH,Tarentum Borough,Allegheny Valley North,Highlands,76104,NH,855
+GLEN OSBORNE,BOROUGH,Glen Osborne Borough,Quaker Valley,Quaker Valley,29732,AA,846
+EMSWORTH,BOROUGH,Emsworth Borough,Quaker Valley,Avonworth,23616,NH,826
+GLENFIELD,BOROUGH,Glenfield Borough,Quaker Valley,Quaker Valley,29592,AA,830
+AVALON,BOROUGH,Avalon Borough,Quaker Valley,Northgate,3608,NH,802
+MILLVALE,BOROUGH,Millvale Borough,North Hills,Shaler Area,49920,NH,838
+NEVILLE,TOWNSHIP,Neville Township,Char-West,Cornell,53136,AA,928
+BEN AVON,BOROUGH,Ben Avon Borough,Quaker Valley,Avonworth,5504,NH,804
+BEN AVON HEIGHTS,BOROUGH,Ben Avon Heights Borough, ,Avonworth,5520,NH,805
+RESERVE,TOWNSHIP,Reserve Township,North Hills,Shaler Area,64240,NH,937
+SHALER,TOWNSHIP,Shaler Township,North Hills,Shaler Area,69584,NH,944
+WILKINSBURG,BOROUGH,Wilkinsburg Borough,Turtle Creek Valley,Wilkinsburg,85188,ES,866
+PLUM,BOROUGH,Plum Borough,Turtle Creek Valley,Plum Borough,61536,ES,880
+BRADDOCK HILLS,BOROUGH,Braddock Hills Borough,Steel Rivers,Woodland Hills,8008,MV,872
+RANKIN,BOROUGH,Rankin Borough,Turtle Creek Valley,Woodland Hills,63408,MV,849
+SWISSVALE,BOROUGH,Swissvale Borough,Turtle Creek Valley,Woodland Hills,75816,MV,854
+EDGEWOOD,BOROUGH,Edgewood Borough,Turtle Creek Valley,Woodland Hills,22520,ES,823
+WEST VIEW,BOROUGH,West View Borough,North Hills,North Hills,84144,NH,864
+CHURCHILL,BOROUGH,Churchill Borough,Turtle Creek Valley,Woodland Hills,13608,ES,816
+CHALFANT,BOROUGH,Chalfant Borough,Turtle Creek Valley,Woodland Hills,12496,ES,814
+ROSS,TOWNSHIP,Ross Township,North Hills,North Hills,66264,NH,940
+BRACKENRIDGE,BOROUGH,Brackenridge Borough,Allegheny Valley North,Highlands,7976,NH,807
+SPRINGDALE,TOWNSHIP,Springdale Township,Allegheny Valley North,Allegheny Valley,72968,NH,948
+HEIDELBERG,BOROUGH,Heidelberg Borough,South Hills Area,Chartiers Valley,33592,SH,833
+ETNA,BOROUGH,Etna Borough,North Hills,Shaler Area,24160,NH,827
+VERONA,BOROUGH,Verona Borough,Allegheny Valley North,Riverview,80032,ES,859
+PENNSBURY VILLAGE,BOROUGH,Pennsbury Village Borough, ,Montour,59152,AA,871
+CLAIRTON,CITY,Clairton,Steel Rivers,Clairton City,13704,MV,200
+SPRINGDALE,BOROUGH,Springdale Borough,Allegheny Valley North,Allegheny Valley,72960,NH,853
+OAKMONT,BOROUGH,Oakmont Borough,Allegheny Valley North,Riverview,56088,ES,845
+BLAWNOX,BOROUGH,Blawnox Borough,Allegheny Valley North,Fox Chapel Area,7000,NH,806
+PLEASANT HILLS,BOROUGH,Pleasant Hills Borough,South Hills Area,West Jefferson Hills,61328,SH,873
+SHARPSBURG,BOROUGH,Sharpsburg Borough,North Hills,Fox Chapel Area,69776,NH,852
+WILKINS,TOWNSHIP,Wilkins Township,Turtle Creek Valley,Woodland Hills,85184,ES,953
+TURTLE CREEK,BOROUGH,Turtle Creek Borough,Turtle Creek Valley,Woodland Hills,77912,MV,858
+BRADDOCK,BOROUGH,Braddock Borough,Turtle Creek Valley,Woodland Hills,7992,MV,808
+EAST PITTSBURGH,BOROUGH,East Pittsburgh Borough,Turtle Creek Valley,Woodland Hills,21712,MV,822
+NORTH BRADDOCK,BOROUGH,North Braddock Borough,Turtle Creek Valley,Woodland Hills,54816,MV,843
+WILMERDING,BOROUGH,Wilmerding Borough,Turtle Creek Valley,East Allegheny,85496,MV,867
+WALL,BOROUGH,Wall Borough,Turtle Creek Valley,East Allegheny,80600,ES,861
+VERSAILLES,BOROUGH,Versailles Borough,Steel Rivers,McKeesport Area,80040,MV,860
+DRAVOSBURG,BOROUGH,Dravosburg Borough,Steel Rivers,McKeesport Area,19856,MV,820
+MCKEESPORT,CITY,McKeesport,Steel Rivers,McKeesport Area,46256,MV,400
+PORT VUE,BOROUGH,Port Vue Borough,Steel Rivers,South Allegheny,62320,MV,848
+GLASSPORT,BOROUGH,Glassport Borough,Steel Rivers,South Allegheny,29432,MV,829
+DUQUESNE,CITY,Duquesne,Steel Rivers,Duquesne City,20432,MV,300
+LIBERTY,BOROUGH,Liberty Borough,Steel Rivers,South Allegheny,43064,MV,837
+LINCOLN,BOROUGH,Lincoln Borough,Steel Rivers,South Allegheny,43408,MV,881
+ELIZABETH,TOWNSHIP,Elizabeth Township,South Hills Area,Elizabeth Forward,23000,MV,908
+ELIZABETH,BOROUGH,Elizabeth Borough,Steel Rivers,Elizabeth Forward,22992,MV,825
+WEST ELIZABETH,BOROUGH,West Elizabeth Borough,Steel Rivers,West Jefferson Hills,82848,MV,862
+SOUTH PARK,TOWNSHIP,South Park Township,South Hills Area,South Park,6064,SH,945
+WEST MIFFLIN,BOROUGH,West Mifflin Borough,South Hills Area,West Mifflin Area,83512,MV,870
+MOUNT OLIVER,BOROUGH,Mount Oliver Borough,South Hills Area,City of Pittsburgh,51744,PGH,839
+WHITAKER,BOROUGH,Whitaker Borough,Steel Rivers,West Mifflin Area,84440,MV,865
+HOMESTEAD,BOROUGH,Homestead Borough,Steel Rivers,Steel Valley,35424,MV,834
+MUNHALL,BOROUGH,Munhall Borough,Steel Rivers,Steel Valley,52320,MV,840
+WEST HOMESTEAD,BOROUGH,West Homestead Borough,Steel Rivers,Steel Valley,83200,MV,863
+GREEN TREE,BOROUGH,Green Tree Borough,Char-West,Keystone Oaks,31256,SH,831
+DORMONT,BOROUGH,Dormont Borough,South Hills Area,Keystone Oaks,19576,SH,819
+BALDWIN,TOWNSHIP,Baldwin Township,South Hills Area,Baldwin-Whitehall,3932,SH,902
+BRENTWOOD,BOROUGH,Brentwood Borough,South Hills Area,Brentwood Borough,8416,SH,810
+BALDWIN,BOROUGH,Baldwin Borough,South Hills Area,Baldwin-Whitehall,3928,SH,877
+WHITEHALL,BOROUGH,Whitehall Borough,South Hills Area,Baldwin-Whitehall,84512,SH,874
+MOUNT LEBANON,TOWNSHIP,Mount Lebanon Township,South Hills Area,Mt. Lebanon,51696,SH,926
+CASTLE SHANNON,BOROUGH,Castle Shannon Borough,South Hills Area,Keystone Oaks,11680,SH,813
+KENNEDY,TOWNSHIP,Kennedy Township,Char-West,Montour,39312,AA,919
+BRIDGEVILLE,BOROUGH,Bridgeville Borough,Char-West,Chartiers Valley,8624,SH,811
+UPPER ST. CLAIR,MUNICIPALI,Upper St. Clair Municipality,South Hills Area,Upper St. Clair Area,79274,SH,950
+INGRAM,BOROUGH,Ingram Borough,Char-West,Montour,37000,AA,835
+STOWE,TOWNSHIP,Stowe Township,Char-West,Sto-Rox,74648,AA,949
+MCKEES ROCKS,BOROUGH,McKees Rocks Borough,Char-West,Sto-Rox,46264,AA,842
+THORNBURG,BOROUGH,Thornburg Borough,Char-West,Montour,76560,AA,856
+CRAFTON,BOROUGH,Crafton Borough,Char-West,Carlynton,16848,AA,818
+ROSSLYN FARMS,BOROUGH,Rosslyn Farms Borough,Char-West,Carlynton,66320,AA,850
+SCOTT,TOWNSHIP,Scott Township,South Hills Area,Chartiers Valley,68388,SH,941
+CARNEGIE,BOROUGH,Carnegie Borough,Char-West,Carlynton,11336,SH,812
+CRESCENT,TOWNSHIP,Crescent Township,Char-West,Moon Area,17048,AA,906
+MOON,TOWNSHIP,Moon Township,South Hills Area,Moon Area,50784,AA,925
+CORAOPOLIS,BOROUGH,Coraopolis Borough,Char-West,Cornell,16144,AA,817
+ROBINSON,TOWNSHIP,Robinson Township,South Hills Area,Montour,65352,AA,939
+MCDONALD,BOROUGH,McDonald Borough, ,Fort Cherry,46072,AA,841
+SOUTH FAYETTE,TOWNSHIP,South Fayette Township,South Hills Area,South Fayete Township,72160,AA,946
+NORTH FAYETTE,TOWNSHIP,North Fayette Township,Char-West,West Allegheny,55016,AA,929
+FORWARD,TOWNSHIP,Forward Township,Steel Rivers,Elizabeth Forward,26896,MV,911
+SOUTH VERSAILLES,TOWNSHIP,South Versailles Township,Steel Rivers,McKeesport Area,72568,MV,947
+WHITE OAK,BOROUGH,White Oak Borough,Steel Rivers,McKeesport Area,84704,MV,875
+NORTH VERSAILLES,TOWNSHIP,North Versailles Township,Turtle Creek Valley,East Allegheny,55488,MV,930
+BRADFORD WOODS,BOROUGH,Bradford Woods Borough,North Hills,North Allegheny,8064,NH,809
+ALEPPO,TOWNSHIP,Aleppo Township,Quaker Valley,Quaker Valley,724,AA,901
+COLLIER,TOWNSHIP,Collier Township,Char-West,Chartiers Valley,15216,AA,905
+HAMPTON,TOWNSHIP,Hampton Township,North Hills,Hampton Township,32328,NH,914
+PITCAIRN,BOROUGH,Pitcairn Borough,Turtle Creek Valley,Gateway,60712,ES,847
+INDIANA,TOWNSHIP,Indiana Township,North Hills,Fox Chapel Area,36808,NH,917
+O'HARA,TOWNSHIP,O Hara Township,North Hills,Fox Chapel Area,56384,NH,931
+ASPINWALL,BOROUGH,Aspinwall Borough,Allegheny Valley North,Fox Chapel Area,3320,NH,801
+WEST DEER,TOWNSHIP,West Deer Township,North Hills,Deer Lakes,82800,NH,952
+BELLEVUE,BOROUGH,Bellevue Borough,Quaker Valley,Northgate,5312,NH,803
+BETHEL PARK,MUNICIPALI,Bethel Park Municipality,South Hills Area,Bethel Park,6064,SH,876
+TRAFFORD,BOROUGH,Trafford Borough, ,Penn-Trafford,77272,MV,857
+KILBUCK,TOWNSHIP,Kilbuck Township,Quaker Valley,Avonworth,39624,NH,920
+EAST MCKEESPORT,BOROUGH,East McKeesport Borough,Turtle Creek Valley,East Allegheny,21444,MV,821
+PENN HILLS,MUNICIPALI,Penn Hills Municipality,Turtle Creek Valley,Penn Hills,59032,ES,934
+FOREST HILLS,BOROUGH,Forest Hills Borough,Turtle Creek Valley,Woodland Hills,26592,ES,828
+MONROEVILLE,MUNICIPALI,Monroeville Municipality,Turtle Creek Valley,Gateway,50528,ES,879
+OAKDALE,BOROUGH,Oakdale Borough,Char-West,West Allegheny,55840,AA,844
+JEFFERSON HILLS,BOROUGH,Jefferson Hills Borough,South Hills Area,West Jefferson Hills,37955,SH,878
+MARSHALL,TOWNSHIP,Marshall Township,North Hills,North Allegheny,47696,NH,923
+EAST DEER,TOWNSHIP,East Deer Township,Allegheny Valley North,Deer Lakes,21024,NH,907
+PINE,TOWNSHIP,Pine Township,North Hills,Pine-Richland,60272,NH,935
+FINDLAY,TOWNSHIP,Findlay Township,South Hills Area,West Allegheny,25904,AA,910
+PITTSBURGH,CITY,Pittsburgh, ,City of Pittsburgh,61000,PGH,100
